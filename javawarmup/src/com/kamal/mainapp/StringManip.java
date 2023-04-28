@@ -12,6 +12,7 @@ public class StringManip {
 		char[] ch = input.toCharArray();
 	    int u=0;
 	    int d=0,l=0;
+		System.out.println("");
 	    for(char c : ch){
 	        if(c=='U'){
 	            l++;
